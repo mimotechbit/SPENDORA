@@ -1,0 +1,77 @@
+.container{ 
+    display: flex; 
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    background-color: #DDDDDD;
+    justify-items: center;
+    min-height: 100vh;
+
+
+
+}
+
+#cont3{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+legend{
+    font-weight: bold;
+    font-size: 30px;
+}  
+
+#cont1{
+    background-color: #3172f2;
+    width: 50%;
+    padding-top: 100px;
+    width: 800px;
+    height: 500px;
+    border-radius: 30px;
+}
+
+#but1{
+    background-color: rgb(0, 89, 255);
+    width: 80%;
+    height: 30px;
+    border-radius: 5px;
+}
+
+#cont2{
+   background-color: #FFFFFF;
+   display:flex ; 
+   flex-direction: column;
+   width: 50%;
+   border-radius: 30px;
+    width: 800px;
+    height: 500px;
+
+}
+
+input{
+    width: 80%;
+    height: 25px;
+    border-radius: 5px;
+    background-color:#EFEFEF;
+    border: none;
+
+}
+
+
+#but2{
+    background-color: #2566E8;
+    border-radius: 25px;
+    height: 40px;
+    
+
+}
+
+
+
+
+
+#par1{
+    padding-bottom: 40px;
+    font-size: 20px;
+}
